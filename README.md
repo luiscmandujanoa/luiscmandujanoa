@@ -1,4 +1,4 @@
-### Hey! <img src="[https://emojis.slackmojis.com/emojis/images/1643516154/21789/squirtle_cool.gif?1643516154](https://emojis.slackmojis.com/emojis/images/1721793999/95239/1000019296q.gif?1721793999)" width="25"/>
+### Hey! <img src="https://emojis.slackmojis.com/emojis/images/1721793999/95239/1000019296q.gif?1721793999" width="25"/>
 
 I'm Luis, a software engineer from Peru 🇵🇪 focused on building modern web applications with Next.js and TypeScript.
 
@@ -8,5 +8,5 @@ Recently, I've been working on projects like an events app and my personal portf
 
 Outside of coding, I'm interested in football and exploring how technology can be used to build online products and digital businesses.
 
-#### Find me here!
+#### Contact me
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/lcmandujanoa)
