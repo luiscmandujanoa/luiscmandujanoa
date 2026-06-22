@@ -1,31 +1,13 @@
-# Hi, I'm Luis 👋
+Building web applications with Next.js, React and TypeScript.
 
-Software Engineer from Peru 🇵🇪
+### / Tech Stack
 
-## Tech Stack
+* Next.js
+* React
+* TypeScript
+* Node.js
 
-- Next.js
-- React
-- TypeScript
-- Node.js
-- Git
-- GitHub
+### / Currently Learning
 
-## Featured Projects
-
-### Events App
-A modern event discovery platform built with Next.js.
-
-### Portfolio Website
-Personal portfolio showcasing my projects and skills.
-
-## Currently Learning
-
-- Next.js 16
-- System Design
-- Observability (Grafana, Loki, Prometheus)
-
-## Contact
-
-- LinkedIn
-- Email
+* System Design
+* Observability
