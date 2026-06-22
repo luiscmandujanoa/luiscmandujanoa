@@ -1,18 +1,31 @@
-## Hi there! 👋 Welcome to my personal site
+# Hi, I'm Luis 👋
 
-- 🔭 I’m currently working on Frontend Developtment
+Software Engineer from Peru 🇵🇪
 
-<!--
-**lcssma/lcssma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack
 
-Here are some ideas to get you started:
+- Next.js
+- React
+- TypeScript
+- Node.js
+- Git
+- GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### Events App
+A modern event discovery platform built with Next.js.
+
+### Portfolio Website
+Personal portfolio showcasing my projects and skills.
+
+## Currently Learning
+
+- Next.js 16
+- System Design
+- Observability (Grafana, Loki, Prometheus)
+
+## Contact
+
+- LinkedIn
+- Email
