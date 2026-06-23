@@ -1,6 +1,6 @@
 ### Hey! <img src="https://emojis.slackmojis.com/emojis/images/1721793999/95239/1000019296q.gif?1721793999" width="25"/>
 
-I'm Luis, a software engineer from Peru 🇵🇪 focused on building modern web applications with Next.js and TypeScript.
+I'm Luis, a software developer from Peru 🇵🇪 focused on building modern web applications with Next.js and TypeScript.
 
 I enjoy building clean, fast and scalable web apps. Currently I'm focused on improving my skills in system design and backend fundamentals while building personal projects.
 
